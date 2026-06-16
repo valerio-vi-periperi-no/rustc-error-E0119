@@ -1,0 +1,9 @@
+[package]
+name = "rustc-error-E0119"
+version = "0.1.0"
+edition = "2021"
+
+# 1.56 is the first version that supports specifying the `rust-version` directly
+rust-version = "1.56"
+
+[dependencies]
